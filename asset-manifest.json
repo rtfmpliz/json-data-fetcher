@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
-    "main.js": "/react-gh-pages/static/js/main.ba1b436d.js",
-    "static/js/453.d9cb3063.chunk.js": "/react-gh-pages/static/js/453.d9cb3063.chunk.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
-    "main.ba1b436d.js.map": "/react-gh-pages/static/js/main.ba1b436d.js.map",
-    "453.d9cb3063.chunk.js.map": "/react-gh-pages/static/js/453.d9cb3063.chunk.js.map"
+    "main.css": "/json-data-fetcher/static/css/main.e6c13ad2.css",
+    "main.js": "/json-data-fetcher/static/js/main.fcf2bdec.js",
+    "static/js/453.d9cb3063.chunk.js": "/json-data-fetcher/static/js/453.d9cb3063.chunk.js",
+    "index.html": "/json-data-fetcher/index.html",
+    "main.e6c13ad2.css.map": "/json-data-fetcher/static/css/main.e6c13ad2.css.map",
+    "main.fcf2bdec.js.map": "/json-data-fetcher/static/js/main.fcf2bdec.js.map",
+    "453.d9cb3063.chunk.js.map": "/json-data-fetcher/static/js/453.d9cb3063.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.ba1b436d.js"
+    "static/js/main.fcf2bdec.js"
   ]
 }
